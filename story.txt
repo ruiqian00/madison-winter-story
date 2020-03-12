@@ -22,3 +22,22 @@ stare at my laptop. The laptop just makes sound that has a frequency of 200000Hz
 for 0.1429 seconds. Then it turns on and starts to self-delete everything, 
 including the p2 project. "Worst day ever", I cry. I choose to go back to my dorm
 and have a bag of oreo.
+
+As I was finishing my bag of oreos, I tried to recall exactly what happened today. 
+Strangely, I couldn't. Wait, this is a dream! But why does it feel so real? And why
+can't I get out of this? 
+"This is not a dream. You broke the matrix." A voice sounded in my head.
+"What? A matrix?" 
+"Yes. You broke it."
+"How? Who are you?"
+...
+Nothing. The voice is gone. Wait, I think I remembered something. I was experimenting
+with a Java runtime called TheMatrix instead of AdoptOpenJDK. This must be why! Our world
+is a matrix, and I somehow stumbled upon its runtime environment! To make matters worse,
+I ran a Java program on TheMatrix:
+while (true) {
+	System.out.println(random.nextInt());
+}
+It seems like I'm stuck in this matrix of randomness forever. Well, might as well make the
+most out of it. I borrowed a book about implementing every single data structure from 
+college library and lived happily ever after.
